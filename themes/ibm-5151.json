@@ -71,7 +71,7 @@
                 "scrollbar.thumb.hover_background": "#09CC50",
                 "scrollbar.track.background": "#00640040",
                 "scrollbar.track.border": "#00640040",
-                "scrollbar_thumb.background": "#006400",
+                "scrollbar.thumb.background": "#006400",
 
                 // Main editor
                 "editor.active_line.background": "#00640080",
@@ -478,7 +478,7 @@
                 "scrollbar.thumb.hover_background": "#09CC50",
                 "scrollbar.track.background": "#00640040",
                 "scrollbar.track.border": "#00640040",
-                "scrollbar_thumb.background": "#006400",
+                "scrollbar.thumb.background": "#006400",
 
                 // Main editor
                 "editor.active_line.background": "#00640080",
