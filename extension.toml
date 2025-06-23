@@ -1,0 +1,7 @@
+id = "ibm-5151"
+name = "IBM 5151 Theme"
+authors = ["David C Cavalcante <davcavalcante@proton.me>", "Takk™ Innovate Studio <say@takk.ag>"]
+version = "1.0.0"
+schema_version = 1
+description = "📺 A theme faithfully based on the IBM 5151 green phosphor screen, recreating the authentic monochrome terminal experience"
+repository = "https://github.com/takk8is/ibm-5151-theme-for-zed"
